@@ -1,0 +1,11 @@
+{
+  "name": "grep-lite",
+  "version": "1.0.0",
+  "bin": {
+    "grep-lite": "./grep-lite.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^18.0.0"
+  }
+}
